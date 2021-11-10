@@ -13,3 +13,4 @@ def test_addition():
 
 def test_division():
     assert ml.product(4) == 8
+    
