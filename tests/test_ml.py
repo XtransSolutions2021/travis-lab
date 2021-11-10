@@ -7,7 +7,7 @@ def test_percentage():
     assert ml.func2() < 50
 
 def test_addition():
-    assert ml.add(4,5) == 10
+    assert ml.add(4,5) == 9
     assert ml.add(5, 7) == 34
     assert ml.add(4, 5) == 10
 
